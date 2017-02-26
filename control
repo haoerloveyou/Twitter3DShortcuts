@@ -1,0 +1,10 @@
+Package: com.cabralcole.twitter3dshortcuts
+Name: Twitter3DShortcuts
+Depends: mobilesubstrate, firmware (>= 10.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes useless Twitter 3d touch items.
+Maintainer: cole cabral
+Depiction: http://ca13ra1.github.io/repo/twitter3dshortcuts/index.html
+Author: cole cabral
+Section: Tweaks
